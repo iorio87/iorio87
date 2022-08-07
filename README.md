@@ -1,6 +1,11 @@
-### Hi I'm Luciano Petrate,  Full Stack Developer 👋
+### Hi there 👋, my name is Luciano Petrate
+#### I am Full Stack Developer
 
-🧠 I'm currently learning Docker
+
+
+- 🧠 I'm currently learning Docker
+
+
 
 ## 🛠 Skills
 HTML, CSS, Javascript, Python, Java
