@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Social App](https://github.com/iorio87/Social-App)  
   
 
-- 🌱 I’m currently learning Firebase and GraphQL  
+- 🌱 I’m currently learning Microservices and Docker  
   
 
 - ❓ Ask me about anything related to Javascript  
