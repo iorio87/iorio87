@@ -6,7 +6,7 @@
 ### <div align="center">I'm Luciano, a  full-stack developer 👨‍💻 passionate about programming 🚀</div>  
   
 
-- 🔭 I’m currently working on [Social App](https://github.com/iorio87/Social-App)  
+- 🔭 I’m currently working with Astro.  
   
 
 - 🌱 I’m currently learning Microservices and Docker  
